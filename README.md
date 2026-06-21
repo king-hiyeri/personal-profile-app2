@@ -16,7 +16,7 @@ Apply CSS styling for a user-friendly interface.
 
 Screenshots:
 ### Screenshot 1: [Main Menu]
-(project screenshots/main menu.png)
+![Description of Image](project screenshots/main menu.png)
 
 ### Screenshot 2: [Profile Card after Submit]
 ![Description of Image](project screenshots/profile card submit.png)
