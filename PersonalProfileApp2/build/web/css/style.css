@@ -1,0 +1,365 @@
+html, body {
+
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+
+/* Main containers */
+
+.container,
+.profile-card,
+.table-card {
+
+
+    width: 100%;
+
+    max-width: 700px;
+
+
+    background: white;
+
+
+    padding: 30px;
+
+
+    border-radius: 16px;
+
+
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+
+
+    box-sizing: border-box;
+
+
+    text-align: center;
+
+
+}
+
+
+
+
+h1 {
+
+    margin: 0 0 20px 0;
+
+    color: #333;
+
+}
+
+
+
+/* Form labels */
+
+label {
+
+    display: block;
+
+    font-weight: bold;
+
+    text-align: left;
+
+    color: #444;
+
+    margin-top: 10px;
+
+}
+
+
+
+/* Input fields */
+
+input,
+textarea {
+
+
+    width: 100%;
+
+
+    padding: 12px;
+
+
+    border: 1px solid #ccc;
+
+
+    border-radius: 10px;
+
+
+    font-size: 14px;
+
+
+    box-sizing: border-box;
+
+
+}
+
+
+
+textarea {
+
+    height: 100px;
+
+    resize: none;
+
+}
+
+
+
+
+input:focus,
+textarea:focus {
+
+
+    border-color:#4CAF50;
+
+
+    box-shadow:0 0 5px rgba(76,175,80,0.4);
+
+
+}
+
+
+
+
+
+/* Submit button */
+
+
+button {
+
+
+    display:block;
+
+
+    width:100%;
+
+
+    padding:12px;
+
+
+    margin-top:15px;
+
+
+    border:none;
+
+
+    border-radius:10px;
+
+
+    background:#4CAF50;
+
+
+    color:white;
+
+
+    font-size:16px;
+
+
+    font-weight:bold;
+
+
+    cursor:pointer;
+
+
+}
+
+
+
+button:hover {
+
+
+    background:#3d8b40;
+
+
+}
+
+
+
+
+
+/* Navigation buttons */
+
+
+a {
+
+
+    display:block;
+
+
+    width:100%;
+
+
+    padding:12px;
+
+
+    margin-top:15px;
+
+
+    border-radius:10px;
+
+
+    background:#6c63ff;
+
+
+    color:white;
+
+
+    font-size:16px;
+
+
+    font-weight:bold;
+
+
+    text-decoration:none;
+
+
+    text-align:center;
+
+
+    box-sizing:border-box;
+
+
+}
+
+
+
+a:hover {
+
+
+    background:#5148d8;
+
+
+}
+
+
+
+
+
+/* Profile display */
+
+
+.profile-card {
+
+
+    max-width:450px;
+
+
+}
+
+
+
+.profile-card p {
+
+
+    background:#f4f4f4;
+
+
+    padding:12px;
+
+
+    border-radius:10px;
+
+
+    text-align:left;
+
+
+}
+
+
+
+
+.intro-box {
+
+
+    background:#f4f4f4;
+
+
+    padding:15px;
+
+
+    border-radius:10px;
+
+
+    text-align:left;
+
+
+}
+
+
+
+
+
+/* View all profiles table */
+
+
+table {
+
+
+    width:100%;
+
+
+    border-collapse:collapse;
+
+
+    margin-top:20px;
+
+
+}
+
+
+
+th {
+
+
+    background:#4CAF50;
+
+
+    color:white;
+
+
+    padding:12px;
+
+
+}
+
+
+
+td {
+
+
+    padding:12px;
+
+
+    border-bottom:1px solid #ddd;
+
+
+}
+
+
+
+tr:hover {
+
+
+    background:#f4f4f4;
+
+
+}
