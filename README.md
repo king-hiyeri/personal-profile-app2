@@ -15,17 +15,19 @@ Use MVC structure with Servlet, JavaBean, and JSP.
 Apply CSS styling for a user-friendly interface.
 
 Screenshots:
-### Screenshot 1: [Main Menu]
-![Description of Image](project screenshots/main menu.png)
+## Screenshots
 
-### Screenshot 2: [Profile Card after Submit]
-![Description of Image](project screenshots/profile card submit.png)
+### Screenshot 1: Main Menu
+![Main Menu](project-screenshots/main-menu.png)
 
-### Screenshot 3: [View All]
-![Description of Image](project screenshots/view all.png)
+### Screenshot 2: Profile Card after Submit
+![Profile Card after Submit button](project-screenshots/profile-card-submit.png)
 
-### Screenshot 4: [Search]
-![Description of Image](project screenshots/search.png)
+### Screenshot 3: View All
+![View All Student](project-screenshots/view-all.png)
 
-### Screenshot 5: [Profile Card after Search]
-![Description of Image](project screenshots/profile card search.png)
+### Screenshot 4: Search
+![Search Student by Student ID](project-screenshots/search.png)
+
+### Screenshot 5: Profile Card after Search
+![Profile Card after Search button](project-screenshots/profile-card-search.png)
