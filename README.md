@@ -15,6 +15,7 @@ Connect application with database using JDBC.
 Use MVC structure with Servlet, JavaBean, and JSP.
 Apply CSS styling for a user-friendly interface.
 
+## Screenshots
 
 ### Screenshot 1: Main Menu
 ![Main Menu](project-screenshots/main-menu.png)
