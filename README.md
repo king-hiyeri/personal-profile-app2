@@ -1,4 +1,5 @@
 Name: Thierry Stephene Gampion
+
 Student ID: 2024266988
 
 Project Description:
@@ -15,7 +16,7 @@ Apply CSS styling for a user-friendly interface.
 
 Screenshots:
 ### Screenshot 1: [Main Menu]
-![Description of Image](project screenshots/main menu.png)
+(project screenshots/main menu.png)
 
 ### Screenshot 2: [Profile Card after Submit]
 ![Description of Image](project screenshots/profile card submit.png)
